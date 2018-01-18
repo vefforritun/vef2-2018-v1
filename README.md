@@ -41,6 +41,10 @@ Setja skal upp villumeðhöndlun fyrir almennar villur og ef beðið er um sló�
 
 `app.js` skal setja upp Express vefþjón en virkni sem les greinar og útbýr routes fyrir þær skal útfærð í `articles.js`.
 
+Öll dependency skulu skráð í `package.json`.
+
+`npm start` skal keyra upp vefþjón á `localhost` porti `3000`.
+
 ## Útlit
 
 CSS skrá ásamt mynd í haus skal sækja gegnum _static_ middleware í Express úr `/public` möppu.
