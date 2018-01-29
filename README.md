@@ -90,9 +90,9 @@ Verkefni sett fyrir í fyrirlestri fimmtudaginn 18. janúar 2018.
 
 ## Skil
 
-Senda skal tölvupóst til dæmatímakennara með fyrirsögn „Vefforritun 2 - Verkefni 1“ í seinasta lagi fyrir lok dags föstudaginn 2. febrúar 2018.
+Skila skal undir „Verkefni og hlutaprófa“ á Uglu í seinasta lagi fyrir lok dags föstudaginn 2. febrúar 2018.
 
-Póstur skal innihalda slóð á GitHub repo fyrir verkefni og dæmatímakennara skal hafa verið boðið í repo ([sjá leiðbeiningar](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/)).
+Skilaboð skulu innihalda slóð á GitHub repo fyrir verkefni, og dæmatímakennurum skal hafa verið boðið í repo ([sjá leiðbeiningar](https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/)). Notendanöfn þeirra eru `ernir` og `elvarhelga`.
 
 ## Einkunn
 
